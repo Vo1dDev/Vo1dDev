@@ -12,12 +12,14 @@ All builds I share are unlocked, tested, and updated regularly. No paid features
 
 ## 🔓 Clients I Maintain
 
-| Client Name        | Description                                                                 |
-|--------------------|-----------------------------------------------------------------------------|
-| **Pizza Client**    | Fake rotation auras, nukers, macros, and a massive ESP suite               |
-| **Oringo Client**   | Skill, slayer, and dungeon automation — with UI customizations and helpers |
-| **Cheeto Client**   | Visual-heavy mod with stealth patching, entity ESP, and dungeon tweaks     |
-| **Funnymaps Extras**| Enhanced version of Funnymap with better overlays, config, and ESP logic   |
+| Client Name               | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| **Pizza Client**           | Free QoL client with fake rotation auras, nukers, and automation            |
+| **Pizza Client Supporter** | Full supporter build — all premium features unlocked, now public            |
+| **Oringo Client**          | Skyblock skill, slayer, and dungeon automation — plus dozens of helpers     |
+| **Oringo Client Supporter**| Original supporter edition — visual tweaks, bonus features, faster updates  |
+| **Cheeto Client**          | Visual-heavy Forge mod with stealth patches and dungeon ESP                 |
+| **Funnymaps Extras**       | Upgraded version of Funnymap with more ESP and secret overlays              |
 
 All are built for **Forge 1.8.9**, optimized for Hypixel Skyblock, and regularly updated.
 
@@ -35,7 +37,9 @@ All are built for **Forge 1.8.9**, optimized for Hypixel Skyblock, and regularly
 ## 📦 Repos to Check Out
 
 - [`Pizza-Client`](https://github.com/Vo1dDev/Pizza-Client)
-- [`Oringo-Client`](https://github.com/Vo1dDev/Oringo-Client)
+- [`Pizza-Client-Supporter`](https://github.com/Vo1dDev/Pizza-Client-Supporter)
+- [`Oringo-Client`](https://github.com/Vo1dDev/OringoClient)
+- [`Oringo-Client-Supporter`](https://github.com/Vo1dDev/OringoClient-Supporter)
 - [`Cheeto-Client`](https://github.com/Vo1dDev/Cheeto-Client)
 - [`Funnymaps-Extras`](https://github.com/Vo1dDev/Funnymaps-Extras)
 
