@@ -19,7 +19,7 @@ All builds I share are unlocked, tested, and updated regularly. No paid features
 | **Oringo Client**          | Skyblock skill, slayer, and dungeon automation — plus dozens of helpers     |
 | **Oringo Client Supporter**| Original supporter edition — visual tweaks, bonus features, faster updates  |
 | **Cheeto Client**          | Visual-heavy Forge mod with stealth patches and dungeon ESP                 |
-| **Funnymaps Extras**       | Upgraded version of Funnymap with more ESP and secret overlays              |
+| **Funnymap Extras**       | Upgraded version of Funnymap with more ESP and secret overlays              |
 
 All are built for **Forge 1.8.9**, optimized for Hypixel Skyblock, and regularly updated.
 
@@ -41,7 +41,7 @@ All are built for **Forge 1.8.9**, optimized for Hypixel Skyblock, and regularly
 - [`Oringo-Client`](https://github.com/Vo1dDev/OringoClient)
 - [`Oringo-Client-Supporter`](https://github.com/Vo1dDev/OringoClient-Supporter)
 - [`Cheeto-Client`](https://github.com/Vo1dDev/Cheeto-Client)
-- [`Funnymaps-Extras`](https://github.com/Vo1dDev/Funnymaps-Extras)
+- [`FunnyMap-Extras`](https://github.com/Vo1dDev/FunnyMap-Extras)
 
 ---
 
